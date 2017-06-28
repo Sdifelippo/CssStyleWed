@@ -111,6 +111,7 @@ ul {
 #submit_button{
   border-radius: 5px;
   background-color: #1fabe5;
+  color: white;
 }
 .main_navigation a:hover {
   color: white;
